@@ -1,4 +1,4 @@
-# React Weather icons
+# React Weather icons :partly_sunny:
 > Weather icons meant for use with the OpenWeatherMap, Yahoo and DarkSky API.
 
 ## Install
@@ -33,4 +33,5 @@ Dark Sky (previously forecast.io) | 'darksky' | [Refer to doc](https://darksky.n
 
 ## TODO
 -[] animate icons
+
 -[] icons for general use
