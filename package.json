@@ -25,6 +25,10 @@
   ],
   "author": "Barbara Williams",
   "license": "MIT",
+  "repository": "github:williamsb/react-weather-icons",
+  "bugs": {
+    "url": "https://github.com/williamsb/react-weather-icons/issues"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
