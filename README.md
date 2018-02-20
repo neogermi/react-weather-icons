@@ -13,6 +13,7 @@ npm install react-icons-weather
 ## Usage
 ```js
 import React from 'react';
+import WeatherIcon from 'react-icons-weather';
 
 const WeatherComponent = (props) => {
   return (
