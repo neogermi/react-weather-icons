@@ -1,5 +1,5 @@
 {
-  "name": "react-weather-icons",
+  "name": "react-icons-weather",
   "version": "1.0.0",
   "description": "A React component for the weather icons library",
   "main": "index.js",
@@ -23,7 +23,7 @@
     "api",
     "components"
   ],
-  "author": "",
+  "author": "Barbara Williams",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",

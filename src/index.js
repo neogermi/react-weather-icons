@@ -4,7 +4,7 @@ import './css/weather-icons.css';
 import helper from './utils';
 /**
 * @param {string} name the name of weather api (open weather map, yahoo and dark sky)
-* @param {string} iconId
+* @param {string} iconId Id based on weather condition
 * @param {string} flip
 * @param {string} fixedWidth
 * @param {string} rotate
