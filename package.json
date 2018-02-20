@@ -2,7 +2,7 @@
   "name": "react-icons-weather",
   "version": "1.0.1",
   "description": "A React component for the weather icons library",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "babel src --out-dir lib",
     "test": "mocha --compilers js:babel-core/register  --require ignore-styles",

@@ -1,6 +1,4 @@
 src
-.eslintrc.json
-
 
 #Dependency directory
 /node_modules
