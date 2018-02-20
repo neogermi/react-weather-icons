@@ -1,12 +1,12 @@
 # React Weather icons :partly_sunny:
 > Weather icons meant for use with the OpenWeatherMap, Yahoo and DarkSky API.
->Currently setting up on npm, please do not download!
 
 Note: Includes font icons from the [weather icons](http://weathericons.io) set.
 
 ## Install
 
 ``` bash
+npm install react-icons-weather
 
 ```
 

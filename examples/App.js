@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
-import WeatherIcon from '../src/index.js';
+import WeatherIcon from 'react-icons-weather';
 import './styles.css';
 
 const root = document.getElementById('root');
