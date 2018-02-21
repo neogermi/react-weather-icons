@@ -1,4 +1,6 @@
 # React Weather icons :partly_sunny:
+[![npm](https://img.shields.io/npm/dt/express.svg?style=flat-square)](https://www.npmjs.com/package/react-icons-weather)
+[![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/react-icons-weather)
 > Weather icons meant for use with the OpenWeatherMap, Yahoo and DarkSky API.
 
 Note: Includes font icons from the [weather icons](http://weathericons.io) set.
