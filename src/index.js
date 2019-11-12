@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import './css/weather-icons.css';
+// import './css/weather-icons.css';
 import helper from './utils';
 /**
 * @param {string} name the name of weather api (open weather map, yahoo and dark sky)
